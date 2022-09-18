@@ -1,0 +1,240 @@
+{
+    "result": "1",
+    "msg": "操作成功",
+    "data": [
+        {
+            "appLogo": "309b4d7ddd8e44c8b88ed5053bf99404.png",
+            "appName": "学生评教",
+            "id": "058f0d7199cc416d908a917465f7b4dc",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=309b4d7ddd8e44c8b88ed5053bf99404.png&type=2"
+        },
+        {
+            "appLogo": "3573e3ba389545c99bd857082f27b607.png",
+            "appName": "学生奖励",
+            "id": "06a2114e57bd4e03897924bb249f1bf8",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=3573e3ba389545c99bd857082f27b607.png&type=2"
+        },
+        {
+            "appLogo": "a258918781ea4b6899ebce5741b6eee8.png",
+            "appName": "晨午晚检",
+            "id": "09a18ed3590543a6b5b031f2890b50ea",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=a258918781ea4b6899ebce5741b6eee8.png&type=2"
+        },
+        {
+            "appLogo": "9245d241f83244a3991634af86313a51.png",
+            "appName": "失物招领",
+            "id": "0c1db24264dd404d88325f6f164fc4f5",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=9245d241f83244a3991634af86313a51.png&type=2"
+        },
+        {
+            "appLogo": "db918886d53946338ca7924ff14cec0a.png",
+            "appName": "班车服务",
+            "id": "1",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=db918886d53946338ca7924ff14cec0a.png&type=2"
+        },
+        {
+            "appLogo": "bfff2a22494846caaafd2dbafdca834e.jpg",
+            "appName": "日常评价",
+            "id": "1ac357522bea4ad7b91feb6ef288535b",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=bfff2a22494846caaafd2dbafdca834e.jpg&type=2"
+        },
+        {
+            "appLogo": "bf1723f867b54893a4e1f4033948dfb8.png",
+            "appName": "总务报修",
+            "id": "2",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=bf1723f867b54893a4e1f4033948dfb8.png&type=2"
+        },
+        {
+            "appLogo": "a853f0e67ece4f8f993e870adc2e2c70.png",
+            "appName": "我的惩处",
+            "id": "23bd50ae168a4516817b824fed0e44a9",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=a853f0e67ece4f8f993e870adc2e2c70.png&type=2"
+        },
+        {
+            "appLogo": "8e1d5600a8f24d4887be83db8b14d2d2.png",
+            "appName": "宿舍查宿",
+            "id": "2824f919155a4576a599c1aeba7f76bd",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=8e1d5600a8f24d4887be83db8b14d2d2.png&type=2"
+        },
+        {
+            "appLogo": "12e215b151f9422b9c062c5567f4babd.png",
+            "appName": "我的工资",
+            "id": "2cd4f0aa09904cd3b683ff1387f95022",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=12e215b151f9422b9c062c5567f4babd.png&type=2"
+        },
+        {
+            "appLogo": "b75b9dde571b49698d9aa7e6de6d4db9.png",
+            "appName": "在线评教",
+            "id": "2f1d9d4e6f8e4175a051f588c1845640",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=b75b9dde571b49698d9aa7e6de6d4db9.png&type=2"
+        },
+        {
+            "appLogo": "4b2713624a1d45009513015fad064a2f.png",
+            "appName": "请假管理",
+            "id": "37801544c9ab41feb9b5a34e4954f1d6",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=4b2713624a1d45009513015fad064a2f.png&type=2"
+        },
+        {
+            "appLogo": "3ec174fd1cb246a6b883a59f1d8e90a2.png",
+            "appName": "场地课表",
+            "id": "415ffbc952714f108b21fe39fd411459",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=3ec174fd1cb246a6b883a59f1d8e90a2.png&type=2"
+        },
+        {
+            "appLogo": "0b86e0bf2eab47e7830c2500c7964664.png",
+            "appName": "洗澡预约",
+            "id": "43cb0689686f466d98daa348a4e1198d",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=0b86e0bf2eab47e7830c2500c7964664.png&type=2"
+        },
+        {
+            "appLogo": "99520fa4410340f2ad69c131d36af8c8.jpg",
+            "appName": "办公OA",
+            "id": "5ceb950bbd7543398716f698aa6c81ef",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=99520fa4410340f2ad69c131d36af8c8.jpg&type=2"
+        },
+        {
+            "appLogo": "1cfc6aa28fa9443190d2722ffbf42061.png",
+            "appName": "学生惩处",
+            "id": "64e60a2aea5f4901aad3493f5aeeedbf",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=1cfc6aa28fa9443190d2722ffbf42061.png&type=2"
+        },
+        {
+            "appLogo": "f146b4e89123406fa9cdb17673007f15.png",
+            "appName": "学生异动",
+            "id": "66b6bb32be684e56af589f4198e750b1",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=f146b4e89123406fa9cdb17673007f15.png&type=2"
+        },
+        {
+            "appLogo": "65dfd60547a14fdbab742d2d43bbc061.png",
+            "appName": "教师课表",
+            "id": "71a040aede3c42cb974e2ba40045f3b4",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=65dfd60547a14fdbab742d2d43bbc061.png&type=2"
+        },
+        {
+            "appLogo": "78d36026bf134dbf93402f7da3b5a8a1.png",
+            "appName": "我的奖励",
+            "id": "744a593c4c5145bcacaeaef1ed9561b6",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=78d36026bf134dbf93402f7da3b5a8a1.png&type=2"
+        },
+        {
+            "appLogo": "f461dab5ca364261ae6a8217fbf5de6d.png",
+            "appName": "我的课表",
+            "id": "75daab9090fc4818b107cc2ecf3b6f38",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=f461dab5ca364261ae6a8217fbf5de6d.png&type=2"
+        },
+        {
+            "appLogo": "7d5a406025ee47e892d5f1f11288a8ec.jpg",
+            "appName": "电教报修",
+            "id": "7950899ef5ac4a1d8cea1c349f55f23a",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=7d5a406025ee47e892d5f1f11288a8ec.jpg&type=2"
+        },
+        {
+            "appLogo": "b4773d83ad234b1aaad25e34922ae0b2.jpg",
+            "appName": "在线选课",
+            "id": "83fb1c31f6aa4689aa8d9ea26a7835f6",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=b4773d83ad234b1aaad25e34922ae0b2.jpg&type=2"
+        },
+        {
+            "appLogo": "50b6b2317070408f8ef924a82209b28f.png",
+            "appName": "我的请假",
+            "id": "890bc071ebb74abdb2f8b7318629ede8",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=50b6b2317070408f8ef924a82209b28f.png&type=2"
+        },
+        {
+            "appLogo": "e067923a9e314bb2a55e8a902923667e.png",
+            "appName": "档案查询",
+            "id": "8accbb4b0930419a9a3b905b0eb4930a",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=e067923a9e314bb2a55e8a902923667e.png&type=2"
+        },
+        {
+            "appLogo": "d2ffae26187d4b41aaefefbaa3c7f85e.png",
+            "appName": "购物预约",
+            "id": "996aba0557d24d6fa8f840eb0f53acde",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=d2ffae26187d4b41aaefefbaa3c7f85e.png&type=2"
+        },
+        {
+            "appLogo": "91de2dfb43344da4b6be29c529990f86.png",
+            "appName": "德育量化",
+            "id": "9f1e014618a949d5ac1092c9b03193c3",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=91de2dfb43344da4b6be29c529990f86.png&type=2"
+        },
+        {
+            "appLogo": "f59385424a7b4cf49ab4755b9ed74da4.png",
+            "appName": "我的档案",
+            "id": "ace59dcb5d1243b081352ef428e6269a",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=f59385424a7b4cf49ab4755b9ed74da4.png&type=2"
+        },
+        {
+            "appLogo": "ad5d423e615a4e87b4ea16021122857f.png",
+            "appName": "学生档案",
+            "id": "b0125cb1223a449983907a98826acfcc",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=ad5d423e615a4e87b4ea16021122857f.png&type=2"
+        },
+        {
+            "appLogo": "0ac2ba16b00e4bb9be2a2d3fe2724d10.png",
+            "appName": "数据日报",
+            "id": "cb3fcdfdaf9742cf8844f9ff08e2c52a",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=0ac2ba16b00e4bb9be2a2d3fe2724d10.png&type=2"
+        },
+        {
+            "appLogo": "4706d9f6305e4182be25c3fec8377d66.png",
+            "appName": "学校概况",
+            "id": "d88mju70096hdndhkk9875322366",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=4706d9f6305e4182be25c3fec8377d66.png&type=2"
+        },
+        {
+            "appLogo": "78ad5cc891514d39af4d33ac5fa8d0fc.png",
+            "appName": "校园风光",
+            "id": "d88mju70096hdndhkk987532236h",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=78ad5cc891514d39af4d33ac5fa8d0fc.png&type=2"
+        },
+        {
+            "appLogo": "23820408679740849fb2356bdb7c94de.png",
+            "appName": "教学任务",
+            "id": "df69c1c0a46f472a8db5703339b40584",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=23820408679740849fb2356bdb7c94de.png&type=2"
+        },
+        {
+            "appLogo": "e3be9e33863048efabcc4fe0d0884fec.png",
+            "appName": "校园新闻",
+            "id": "e8401db2c7a2432c9885f7a8770dfc67",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=e3be9e33863048efabcc4fe0d0884fec.png&type=2"
+        },
+        {
+            "appLogo": "6c54fffc8e2f4619a3400d6c912a5c38.png",
+            "appName": "通知公告",
+            "id": "e8401db2c7a2432c9885f7a8770dfc68",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=6c54fffc8e2f4619a3400d6c912a5c38.png&type=2"
+        },
+        {
+            "appLogo": "ad111d25a96a43e78406173782dc9185.png",
+            "appName": "校园黄页",
+            "id": "e8401db2c7a2432c9885f7a8770dfc69",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=ad111d25a96a43e78406173782dc9185.png&type=2"
+        },
+        {
+            "appLogo": "df98dbbe218649ecade0a03b84c4e528.png",
+            "appName": "班级课表",
+            "id": "e9aa1431456d4b2d9eda031c9a5bc121",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=df98dbbe218649ecade0a03b84c4e528.png&type=2"
+        },
+        {
+            "appLogo": "ec4a10e7dffd4d079eeea2594ca8f92f.png",
+            "appName": "我的成绩",
+            "id": "ea14732db865494c905cb6d1d1fc7587",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=ec4a10e7dffd4d079eeea2594ca8f92f.png&type=2"
+        },
+        {
+            "appLogo": "5946cfd0d383454a8ada4be412e86542.png",
+            "appName": "成绩查询",
+            "id": "eed15f29b4cf440aa07d77d7f552f390",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=5946cfd0d383454a8ada4be412e86542.png&type=2"
+        },
+        {
+            "appLogo": "091f8dbdd06b4385ab53d7ef410088b0.png",
+            "appName": "学生考勤",
+            "id": "f660989f0fcd4d6f88e91dc4f03afa4d",
+            "logoUrl": "http://127.0.0.1:8888/openplatform/a/upimage/displayimg?imgid=091f8dbdd06b4385ab53d7ef410088b0.png&type=2"
+        }
+    ]
+}
